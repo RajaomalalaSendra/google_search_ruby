@@ -1,0 +1,8 @@
+source "https://rubygems.org"
+ruby "2.5.1"
+gem "watir"
+gem "selenium-webdriver", "~> 3.141.0"
+gem "childprocess", "~> 0.9.0"
+gem "ffi"
+gem "launchy"
+gem "nokogiri"
